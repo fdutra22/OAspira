@@ -12,6 +12,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAspira.Web", "OAspira.Web\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAspira.Tests", "OAspira.Tests\OAspira.Tests.csproj", "{597772D8-9CF6-4D21-96F0-F770DE4D95F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAspira.Front", "OAspira.Front\OAspira.Front\OAspira.Front.csproj", "{881E3BAF-A47C-43B5-89D5-2C7C0F3FEF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAspira.Front.Client", "OAspira.Front\OAspira.Front.Client\OAspira.Front.Client.csproj", "{143B4368-417A-4241-B23B-3892984AAB83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,14 @@ Global
 		{597772D8-9CF6-4D21-96F0-F770DE4D95F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{597772D8-9CF6-4D21-96F0-F770DE4D95F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{597772D8-9CF6-4D21-96F0-F770DE4D95F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881E3BAF-A47C-43B5-89D5-2C7C0F3FEF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881E3BAF-A47C-43B5-89D5-2C7C0F3FEF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881E3BAF-A47C-43B5-89D5-2C7C0F3FEF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881E3BAF-A47C-43B5-89D5-2C7C0F3FEF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143B4368-417A-4241-B23B-3892984AAB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143B4368-417A-4241-B23B-3892984AAB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143B4368-417A-4241-B23B-3892984AAB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143B4368-417A-4241-B23B-3892984AAB83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
